@@ -70,10 +70,11 @@ http://127.0.0.1:8000/
 ![Product Interface](static/images/1.PNG)
 
 2. After checking mailbox  in "Check Incoming Mails for Malicious Mails" section click “Scan Now”.<br><br>
-![Product Interface](static/images/3.PNG)
-
 3. The analysis will start.....<br><br>
 ![Product Interface](static/images/2.PNG)
+![Product Interface](static/images/3.PNG)
+
+
 
 4. If you got any malicious mail then click on "Expunge Malicious Mails":<br><br>
 ![Product Interface](static/images/4.PNG)
