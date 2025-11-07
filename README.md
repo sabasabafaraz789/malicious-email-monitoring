@@ -66,18 +66,18 @@ http://127.0.0.1:8000/
 
 ## 💻 How to Use
 
-1. On the front-end page, click “Scrape Competitors Products Prices”. <br><br>
-![Product Interface](images/1.PNG)
+1. On the front-end page, in "Check MailBox for Incoming Mails" section click “Check MailBox”. <br><br>
+![Product Interface](static/images/1.PNG)
 
-2. The system will automatically scrape all competitor products and display:
+2. After checking mailbox  in "Check Incoming Mails for Malicious Mails" section click “Scan Now”.<br><br>
+![Product Interface](static/images/3.PNG)
 
-3. Pricing statistics (Average, Minimum, Maximum, Price Range, etc.) <br><br>
-![Product Interface](images/2.PNG)
+3. The analysis will start.....<br><br>
+![Product Interface](static/images/2.PNG)
 
-4. Use the dropdown menu to select your preferred price option — Minimum, Maximum, or Average.
+4. If you got any malicious mail then click on "Expunge Malicious Mails":<br><br>
+![Product Interface](static/images/4.PNG)
 
-5. Click “Update Prices” to update the product prices according to the calculated statistics. <br><br>
-![Product Interface](images/3.PNG)
 
 
 ## 👨‍💻 Author
